@@ -1,0 +1,9 @@
+[project]
+name = "marketplace-campaign-mail"
+version = "0.1.0"
+description = "A typed Python email handoff flow for marketplace campaigns"
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+
